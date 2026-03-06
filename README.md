@@ -163,4 +163,4 @@ python3 scripts/client.py api-call <接口路径> -p 参数=值
 ---
 
 **最后更新：** 2026-03-05  
-**维护者：** OpenClaw 社区
+**维护者：** SaleSmartly Teams
